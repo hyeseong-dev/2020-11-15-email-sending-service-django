@@ -21,8 +21,8 @@ $python manage.py runserver
 ```
 
 # Sample Image
-![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG){: width=70px height=70px}
-![카테고리추가](https://user-images.githubusercontent.com/57933835/99189939-20e78e80-27a7-11eb-8bfb-6d9e722e21e2.PNG){: width="70%" height="70%"}
+![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG){ width=70px height=70px}
+![카테고리추가](https://user-images.githubusercontent.com/57933835/99189939-20e78e80-27a7-11eb-8bfb-6d9e722e21e2.PNG){ width="70%" height="70%"}
 ![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG){ width="70%" height="70%"}
 ![맛집추가](https://user-images.githubusercontent.com/57933835/99189934-1cbb7100-27a7-11eb-80bb-90a7994b64d0.PNG){ width="70%" height="70%"}
 ![이메일성공](https://user-images.githubusercontent.com/57933835/99189936-1e853480-27a7-11eb-8302-7510627ac789.png){ width="70%" height="70%"}
