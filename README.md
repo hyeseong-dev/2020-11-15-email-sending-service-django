@@ -21,10 +21,8 @@ $python manage.py runserver
 ```
 
 # Sample Image
-![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG)
-![카테고리추가](https://user-images.githubusercontent.com/57933835/99189939-20e78e80-27a7-11eb-8bfb-6d9e722e21e2.PNG)
-![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG)
-![맛집추가](https://user-images.githubusercontent.com/57933835/99189934-1cbb7100-27a7-11eb-80bb-90a7994b64d0.PNG)
-![이메일성공](https://user-images.githubusercontent.com/57933835/99189936-1e853480-27a7-11eb-8302-7510627ac789.png)
-![이메일실패](https://user-images.githubusercontent.com/57933835/99189938-1fb66180-27a7-11eb-8543-7286ea77c903.png)
-![카테고리추가](https://user-images.githubusercontent.com/57933835/99189939-20e78e80-27a7-11eb-8bfb-6d9e722e21e2.PNG)
+![맛집추가](https://user-images.githubusercontent.com/57933835/99190527-5e015000-27aa-11eb-9598-60c0b63e0070.PNG)
+![메인화면](https://user-images.githubusercontent.com/57933835/99190528-5e99e680-27aa-11eb-8bbd-fcfc363a05db.PNG)
+![이메일성공](https://user-images.githubusercontent.com/57933835/99190529-5f327d00-27aa-11eb-8575-f0205cf651a8.png)
+![이메일실패](https://user-images.githubusercontent.com/57933835/99190530-5fcb1380-27aa-11eb-9016-4d9b869dfe8a.png)
+![카테고리추가](https://user-images.githubusercontent.com/57933835/99190531-5fcb1380-27aa-11eb-924d-572074d4b7d8.PNG)
