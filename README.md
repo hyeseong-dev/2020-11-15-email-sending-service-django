@@ -21,3 +21,5 @@ $python manage.py runserver
 ```
 
 # Sample Image
+![메인화면](https://user-images.githubusercontent.com/57933835/99189930-188f5380-27a7-11eb-9eb0-d1cf24462560.PNG){: width="500" height="500"}
+![카테고리추가](https://user-images.githubusercontent.com/57933835/99189939-20e78e80-27a7-11eb-8bfb-6d9e722e21e2.PNG){: width="500" height="500"}
