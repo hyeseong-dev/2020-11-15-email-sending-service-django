@@ -26,3 +26,10 @@ $python manage.py runserver
 ![이메일성공](https://user-images.githubusercontent.com/57933835/99190529-5f327d00-27aa-11eb-8575-f0205cf651a8.png)
 ![이메일실패](https://user-images.githubusercontent.com/57933835/99190530-5fcb1380-27aa-11eb-9016-4d9b869dfe8a.png)
 ![카테고리추가](https://user-images.githubusercontent.com/57933835/99190531-5fcb1380-27aa-11eb-924d-572074d4b7d8.PNG)
+
+
+
+# Reconsidering
+1. 이미지 삽입 기능 구현 
+2. 취약한 프론트 디자인
+3. pythonanywhere에서 deploying했는데 확장성 있는 AWS, GCP, AZURE로 고려
